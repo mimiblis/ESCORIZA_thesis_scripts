@@ -1,0 +1,85 @@
+Biological Process							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0051188	cofactor biosynthetic process	4	2	0.12	1	0.0045	0.0045
+GO:0006417	regulation of translation	5	2	0.14	2	0.0074	0.0074
+GO:0006281	DNA repair	9	2	0.26	3	0.025	0.025
+GO:0000086	G2/M transition of mitotic cell cycle	1	1	0.03	5	0.0288	0.0288
+GO:0002566	somatic diversification of immune recept...	1	1	0.03	6	0.0288	0.0288
+GO:0006284	base-excision repair	1	1	0.03	7	0.0288	0.0288
+GO:0006448	regulation of translational elongation	1	1	0.03	8	0.0288	0.0288
+GO:0006450	regulation of translational fidelity	1	1	0.03	9	0.0288	0.0288
+GO:0006778	porphyrin-containing compound metabolic ...	1	1	0.03	10	0.0288	0.0288
+GO:0006779	porphyrin-containing compound biosynthet...	1	1	0.03	11	0.0288	0.0288
+GO:0006782	protoporphyrinogen IX biosynthetic proce...	1	1	0.03	12	0.0288	0.0288
+GO:0006783	heme biosynthetic process	1	1	0.03	13	0.0288	0.0288
+GO:0007215	glutamate receptor signaling pathway	1	1	0.03	14	0.0288	0.0288
+GO:0007613	memory	1	1	0.03	15	0.0288	0.0288
+GO:0007616	long-term memory	1	1	0.03	16	0.0288	0.0288
+GO:0007635	chemosensory behavior	1	1	0.03	17	0.0288	0.0288
+GO:0010389	regulation of G2/M transition of mitotic...	1	1	0.03	18	0.0288	0.0288
+GO:0010972	negative regulation of G2/M transition o...	1	1	0.03	19	0.0288	0.0288
+GO:0016446	somatic hypermutation of immunoglobulin ...	1	1	0.03	20	0.0288	0.0288
+GO:0033013	tetrapyrrole metabolic process	1	1	0.03	21	0.0288	0.0288
+GO:0033014	tetrapyrrole biosynthetic process	1	1	0.03	22	0.0288	0.0288
+GO:0035418	protein localization to synapse	1	1	0.03	23	0.0288	0.0288
+GO:0035520	monoubiquitinated protein deubiquitinati...	1	1	0.03	24	0.0288	0.0288
+GO:0042048	olfactory behavior	1	1	0.03	25	0.0288	0.0288
+GO:0042168	heme metabolic process	1	1	0.03	26	0.0288	0.0288
+GO:0045838	positive regulation of membrane potentia...	1	1	0.03	27	0.0288	0.0288
+GO:0046501	protoporphyrinogen IX metabolic process	1	1	0.03	28	0.0288	0.0288
+GO:0046958	nonassociative learning	1	1	0.03	29	0.0288	0.0288
+GO:0046959	habituation	1	1	0.03	30	0.0288	0.0288
+GO:0050893	sensory processing	1	1	0.03	31	0.0288	0.0288
+GO:0050894	determination of affect	1	1	0.03	32	0.0288	0.0288
+GO:0060013	righting reflex	1	1	0.03	33	0.0288	0.0288
+GO:0060078	regulation of postsynaptic membrane pote...	1	1	0.03	34	0.0288	0.0288
+GO:0060079	regulation of excitatory postsynaptic me...	1	1	0.03	35	0.0288	0.0288
+GO:0060996	dendritic spine development	1	1	0.03	36	0.0288	0.0288
+GO:0060997	dendritic spine morphogenesis	1	1	0.03	37	0.0288	0.0288
+GO:0071625	vocalization behavior	1	1	0.03	38	0.0288	0.0288
+GO:0097061	dendritic spine organization	1	1	0.03	39	0.0288	0.0288
+GO:1900449	regulation of glutamate receptor signali...	1	1	0.03	40	0.0288	0.0288
+GO:1902229	regulation of intrinsic apoptotic signal...	1	1	0.03	41	0.0288	0.0288
+GO:1902230	negative regulation of intrinsic apoptot...	1	1	0.03	42	0.0288	0.0288
+GO:2000311	regulation of alpha-amino-3-hydroxy-5-me...	1	1	0.03	43	0.0288	0.0288
+GO:2000463	positive regulation of excitatory postsy...	1	1	0.03	44	0.0288	0.0288
+GO:2001021	negative regulation of response to DNA d...	1	1	0.03	45	0.0288	0.0288
+
+Cellular Component							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0008021	synaptic vesicle	4	2	0.11	2	0.0044	0.0044
+GO:0031461	cullin-RING ubiquitin ligase complex	6	2	0.17	4	0.0107	0.0107
+GO:0000151	ubiquitin ligase complex	7	2	0.2	5	0.0147	0.0147
+GO:0030425	dendrite	8	2	0.23	6	0.0193	0.0193
+GO:0008328	ionotropic glutamate receptor complex	1	1	0.03	7	0.0285	0.0285
+GO:0019005	SCF ubiquitin ligase complex	1	1	0.03	8	0.0285	0.0285
+GO:0019008	molybdopterin synthase complex	1	1	0.03	9	0.0285	0.0285
+GO:0022627	cytosolic small ribosomal subunit	1	1	0.03	10	0.0285	0.0285
+GO:0032300	mismatch repair complex	1	1	0.03	11	0.0285	0.0285
+GO:0032389	MutLalpha complex	1	1	0.03	12	0.0285	0.0285
+GO:0043197	dendritic spine	1	1	0.03	13	0.0285	0.0285
+GO:0044309	neuron spine	1	1	0.03	14	0.0285	0.0285
+GO:0060076	excitatory synapse	1	1	0.03	15	0.0285	0.0285
+GO:0071541	eukaryotic translation initiation factor...	1	1	0.03	16	0.0285	0.0285
+GO:1990391	DNA repair complex	1	1	0.03	17	0.0285	0.0285
+GO:0036477	somatodendritic compartment	10	2	0.28	18	0.03	0.03
+GO:0043005	neuron projection	12	2	0.34	21	0.0425	0.0425
+GO:0032991	macromolecular complex	154	8	4.38	22	0.0433	0.0433
+GO:0030529	ribonucleoprotein complex	29	3	0.83	23	0.044	0.044
+GO:0005623	cell	454	16	12.93	19	0.0312	0.0473
+GO:0044464	cell part	454	16	12.93	20	0.0312	0.0473
+GO:0005840	ribosome	13	2	0.37	24	0.0494	0.0494
+
+Molecular Function							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0008234	cysteine-type peptidase activity	5	2	0.14	1	0.0067	0.0067
+GO:0051536	iron-sulfur cluster binding	6	2	0.16	2	0.0099	0.0099
+GO:0004853	uroporphyrinogen decarboxylase activity	1	1	0.03	4	0.0272	0.0272
+GO:0030159	receptor signaling complex scaffold acti...	1	1	0.03	5	0.0272	0.0272
+GO:0030160	GKAP/Homer scaffold activity	1	1	0.03	6	0.0272	0.0272
+GO:0031369	translation initiation factor binding	1	1	0.03	7	0.0272	0.0272
+GO:0032138	single base insertion or deletion bindin...	1	1	0.03	8	0.0272	0.0272
+GO:0032407	MutSalpha complex binding	1	1	0.03	9	0.0272	0.0272
+GO:0035254	glutamate receptor binding	1	1	0.03	10	0.0272	0.0272
+GO:0035255	ionotropic glutamate receptor binding	1	1	0.03	11	0.0272	0.0272
+GO:0071987	WD40-repeat domain binding	1	1	0.03	12	0.0272	0.0272

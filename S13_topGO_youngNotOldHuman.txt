@@ -1,0 +1,42 @@
+Biological Process							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0019369	arachidonic acid metabolic process	1	1	0.01	1	0.0083	0.0083
+GO:0030815	negative regulation of cAMP metabolic pr...	1	1	0.01	2	0.0083	0.0083
+GO:0038170	somatostatin signaling pathway	1	1	0.01	3	0.0083	0.0083
+GO:0071383	cellular response to steroid hormone sti...	2	1	0.02	13	0.0167	0.0167
+GO:0071384	cellular response to corticosteroid stim...	2	1	0.02	14	0.0167	0.0167
+GO:0071385	cellular response to glucocorticoid stim...	2	1	0.02	15	0.0167	0.0167
+GO:0007187	G-protein coupled receptor signaling pat...	3	1	0.02	22	0.025	0.025
+GO:0031960	response to corticosteroid	3	1	0.02	23	0.025	0.025
+GO:0051384	response to glucocorticoid	3	1	0.02	24	0.025	0.025
+GO:0007218	neuropeptide signaling pathway	4	1	0.03	29	0.0333	0.0333
+GO:0043410	positive regulation of MAPK cascade	4	1	0.03	30	0.0333	0.0333
+GO:0010562	positive regulation of phosphorus metabo...	5	1	0.04	40	0.0417	0.0417
+GO:0030900	forebrain development	5	1	0.04	41	0.0417	0.0417
+GO:0042327	positive regulation of phosphorylation	5	1	0.04	42	0.0417	0.0417
+GO:0045937	positive regulation of phosphate metabol...	5	1	0.04	43	0.0417	0.0417
+GO:0071396	cellular response to lipid	5	1	0.04	44	0.0417	0.0417
+GO:0008285	negative regulation of cell proliferatio...	6	1	0.05	46	0.05	0.05
+GO:0048545	response to steroid hormone	6	1	0.05	47	0.05	0.05
+GO:0071407	cellular response to organic cyclic comp...	6	1	0.05	48	0.05	0.05
+
+Cellular Component							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+NO SIGNIFICANT RESULTS
+
+Molecular Function							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0004994	somatostatin receptor activity	1	1	0.01	1	0.0081	0.0081
+GO:0042923	neuropeptide binding	1	1	0.01	2	0.0081	0.0081
+GO:0005515	protein binding	92	1	0.74	15	0.7419	0.7419
+GO:0001653	peptide receptor activity	2	1	0.02	3	0.0161	1
+GO:0003674	molecular_function	124	1	1	17	1	1
+GO:0004871	signal transducer activity	13	1	0.1	13	0.1048	1
+GO:0004872	receptor activity	11	1	0.09	12	0.0887	1
+GO:0004888	transmembrane signaling receptor activit...	10	1	0.08	10	0.0806	1
+GO:0004930	G-protein coupled receptor activity	5	1	0.04	9	0.0403	1
+GO:0005488	binding	112	1	0.9	16	0.9032	1
+GO:0008188	neuropeptide receptor activity	2	1	0.02	4	0.0161	1
+GO:0008528	G-protein coupled peptide receptor activ...	2	1	0.02	5	0.0161	1
+GO:0030594	neurotransmitter receptor activity	3	1	0.02	8	0.0242	1
+GO:0033218	amide binding	2	1	0.02	6	0.0161	1

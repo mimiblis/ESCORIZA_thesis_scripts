@@ -1,0 +1,75 @@
+Biological process							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0072657	protein localization to membrane	42	10	4.08	5	0.0054	0.0054
+GO:0006754	ATP biosynthetic process	5	3	0.49	12	0.0078	0.0078
+GO:0006265	DNA topological change	2	2	0.19	13	0.0094	0.0094
+GO:0015671	oxygen transport	2	2	0.19	14	0.0094	0.0094
+GO:0030818	negative regulation of cAMP biosynthetic...	2	2	0.19	15	0.0094	0.0094
+GO:0035518	histone H2A monoubiquitination	2	2	0.19	16	0.0094	0.0094
+GO:0097011	cellular response to granulocyte macroph...	2	2	0.19	17	0.0094	0.0094
+GO:0090150	establishment of protein localization to...	29	7	2.82	30	0.0178	0.0178
+GO:0001946	lymphangiogenesis	3	2	0.29	33	0.0263	0.0263
+GO:0002829	negative regulation of type 2 immune res...	3	2	0.29	34	0.0263	0.0263
+GO:0015985	energy coupled proton transport, down el...	3	2	0.29	35	0.0263	0.0263
+GO:0015986	ATP synthesis coupled proton transport	3	2	0.29	36	0.0263	0.0263
+GO:0031960	response to corticosteroid	3	2	0.29	37	0.0263	0.0263
+GO:0036303	lymph vessel morphogenesis	3	2	0.29	38	0.0263	0.0263
+GO:0050710	negative regulation of cytokine secretio...	3	2	0.29	39	0.0263	0.0263
+GO:0051384	response to glucocorticoid	3	2	0.29	40	0.0263	0.0263
+GO:0060074	synapse maturation	3	2	0.29	41	0.0263	0.0263
+GO:0060215	primitive hemopoiesis	3	2	0.29	42	0.0263	0.0263
+GO:0019221	cytokine-mediated signaling pathway	25	6	2.43	47	0.0284	0.0284
+GO:0042254	ribosome biogenesis	8	3	0.78	51	0.0349	0.0349
+GO:0051054	positive regulation of DNA metabolic pro...	20	5	1.94	53	0.0378	0.0378
+GO:0090002	establishment of protein localization to...	20	5	1.94	54	0.0378	0.0378
+GO:0002285	lymphocyte activation involved in immune...	14	4	1.36	55	0.0395	0.0395
+GO:0022408	negative regulation of cell-cell adhesio...	14	4	1.36	56	0.0395	0.0395
+GO:0007159	leukocyte cell-cell adhesion	34	7	3.3	59	0.0405	0.0405
+GO:0072659	protein localization to plasma membrane	28	6	2.72	61	0.0474	0.0474
+GO:0050868	negative regulation of T cell activation	9	3	0.87	63	0.0487	0.0487
+GO:0001945	lymph vessel development	4	2	0.39	67	0.0493	0.0493
+GO:0006165	nucleoside diphosphate phosphorylation	4	2	0.39	68	0.0493	0.0493
+GO:0031663	lipopolysaccharide-mediated signaling pa...	4	2	0.39	69	0.0493	0.0493
+GO:0035024	negative regulation of Rho protein signa...	4	2	0.39	70	0.0493	0.0493
+GO:0043113	receptor clustering	4	2	0.39	71	0.0493	0.0493
+GO:0045581	negative regulation of T cell differenti...	4	2	0.39	72	0.0493	0.0493
+GO:0045620	negative regulation of lymphocyte differ...	4	2	0.39	73	0.0493	0.0493
+GO:0046939	nucleotide phosphorylation	4	2	0.39	74	0.0493	0.0493
+GO:0060291	long-term synaptic potentiation	4	2	0.39	75	0.0493	0.0493
+GO:0090003	regulation of establishment of protein l...	4	2	0.39	76	0.0493	0.0493
+							
+Cellular component							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0060076	excitatory synapse	4	3	0.4	1	0.0036	0.0036
+GO:0009897	external side of plasma membrane	24	7	2.39	2	0.0069	0.0069
+GO:0005833	hemoglobin complex	2	2	0.2	3	0.0099	0.0099
+GO:0031527	filopodium membrane	2	2	0.2	4	0.0099	0.0099
+GO:0031931	TORC1 complex	2	2	0.2	5	0.0099	0.0099
+GO:0045263	proton-transporting ATP synthase complex...	2	2	0.2	6	0.0099	0.0099
+GO:0019013	viral nucleocapsid	7	3	0.7	8	0.0251	0.0251
+GO:0005778	peroxisomal membrane	3	2	0.3	9	0.0276	0.0276
+GO:0030672	synaptic vesicle membrane	3	2	0.3	10	0.0276	0.0276
+GO:0031903	microbody membrane	3	2	0.3	11	0.0276	0.0276
+GO:0044438	microbody part	3	2	0.3	12	0.0276	0.0276
+GO:0044439	peroxisomal part	3	2	0.3	13	0.0276	0.0276
+GO:0019012	virion	8	3	0.8	16	0.0373	0.0373
+GO:0019028	viral capsid	8	3	0.8	17	0.0373	0.0373
+GO:0044423	virion part	8	3	0.8	18	0.0373	0.0373
+GO:0005654	nucleoplasm	276	36	27.48	19	0.0428	0.0428
+
+Molecular Function							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0008201	heparin binding	11	5	1.12	2	0.0029	0.0029
+GO:0005086	ARF guanyl-nucleotide exchange factor ac...	5	3	0.51	3	0.0089	0.0089
+GO:0003916	DNA topoisomerase activity	2	2	0.2	5	0.0103	0.0103
+GO:0003917	DNA topoisomerase type I activity	2	2	0.2	6	0.0103	0.0103
+GO:0005344	oxygen transporter activity	2	2	0.2	7	0.0103	0.0103
+GO:0019825	oxygen binding	2	2	0.2	8	0.0103	0.0103
+GO:0008757	S-adenosylmethionine-dependent methyltra...	10	4	1.02	9	0.0134	0.0134
+GO:0008168	methyltransferase activity	22	6	2.24	10	0.0192	0.0192
+GO:0016741	transferase activity, transferring one-c...	23	6	2.34	11	0.0239	0.0239
+GO:0008276	protein methyltransferase activity	7	3	0.71	12	0.0268	0.0268
+GO:0030971	receptor tyrosine kinase binding	7	3	0.71	13	0.0268	0.0268
+GO:0015144	carbohydrate transmembrane transporter a...	3	2	0.31	14	0.0289	0.0289
+GO:1901476	carbohydrate transporter activity	3	2	0.31	15	0.0289	0.0289
+

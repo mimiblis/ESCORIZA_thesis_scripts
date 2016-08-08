@@ -1,0 +1,56 @@
+Biological Process							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0006986	response to unfolded protein	6	3	0.36	1	0.0035	0.0035
+GO:0002042	cell migration involved in sprouting ang...	3	2	0.18	3	0.01	0.01
+GO:0048010	vascular endothelial growth factor recep...	16	4	0.95	4	0.0118	0.0118
+GO:0000209	protein polyubiquitination	4	2	0.24	5	0.0192	0.0192
+GO:0006364	rRNA processing	4	2	0.24	6	0.0192	0.0192
+GO:0016072	rRNA metabolic process	4	2	0.24	7	0.0192	0.0192
+GO:0042993	positive regulation of transcription fac...	4	2	0.24	8	0.0192	0.0192
+GO:0006464	cellular protein modification process	137	14	8.14	9	0.0216	0.0216
+GO:0036211	protein modification process	137	14	8.14	10	0.0216	0.0216
+GO:0032103	positive regulation of response to exter...	11	3	0.65	11	0.0232	0.0232
+GO:0031589	cell-substrate adhesion	30	5	1.78	13	0.0277	0.0277
+GO:0043412	macromolecule modification	142	14	8.43	14	0.0291	0.0291
+GO:0030968	endoplasmic reticulum unfolded protein r...	5	2	0.3	16	0.0308	0.0308
+GO:0034620	cellular response to unfolded protein	5	2	0.3	17	0.0308	0.0308
+GO:0035967	cellular response to topologically incor...	5	2	0.3	18	0.0308	0.0308
+GO:0046916	cellular transition metal ion homeostasi...	5	2	0.3	19	0.0308	0.0308
+GO:0044267	cellular protein metabolic process	188	17	11.17	20	0.0345	0.0345
+GO:0010256	endomembrane system organization	22	4	1.31	21	0.0364	0.0364
+GO:0016311	dephosphorylation	22	4	1.31	22	0.0364	0.0364
+GO:0031401	positive regulation of protein modificat...	44	6	2.61	23	0.04	0.04
+GO:0055065	metal ion homeostasis	44	6	2.61	24	0.04	0.04
+GO:0030316	osteoclast differentiation	6	2	0.36	26	0.0445	0.0445
+GO:0030593	neutrophil chemotaxis	6	2	0.36	27	0.0445	0.0445
+GO:0034976	response to endoplasmic reticulum stress	6	2	0.36	28	0.0445	0.0445
+GO:0042254	ribosome biogenesis	6	2	0.36	29	0.0445	0.0445
+GO:0042990	regulation of transcription factor impor...	6	2	0.36	30	0.0445	0.0445
+GO:1990266	neutrophil migration	6	2	0.36	31	0.0445	0.0445
+GO:0010810	regulation of cell-substrate adhesion	14	3	0.83	34	0.0451	0.0451
+GO:0044089	positive regulation of cellular componen...	24	4	1.43	35	0.0484	0.0484
+GO:0006796	phosphate-containing compound metabolic ...	152	14	9.03	36	0.0497	0.0497
+
+Cellular Component							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0005783	endoplasmic reticulum	85	13	5.1	1	0.00083	0.00083
+GO:0035770	ribonucleoprotein granule	4	2	0.24	4	0.01964	0.01964
+GO:0036464	cytoplasmic ribonucleoprotein granule	4	2	0.24	5	0.01964	0.01964
+GO:0044448	cell cortex part	11	3	0.66	6	0.02393	0.02393
+GO:0005604	basement membrane	12	3	0.72	7	0.03057	0.03057
+GO:0044420	extracellular matrix component	14	3	0.84	9	0.04645	0.04645
+
+Molecular Function							
+GO.ID	Term	Annotated	Significant	Expected	Rank in classicFisher	classicFisher	elimFisher
+GO:0017046	peptide hormone binding	6	3	0.35	1	0.0032	0.0032
+GO:0051879	Hsp90 protein binding	2	2	0.12	2	0.0033	0.0033
+GO:0019902	phosphatase binding	9	3	0.52	3	0.012	0.012
+GO:0005178	integrin binding	10	3	0.58	5	0.0165	0.0165
+GO:0019899	enzyme binding	85	10	4.93	6	0.0189	0.0189
+GO:0008757	S-adenosylmethionine-dependent methyltra...	5	2	0.29	7	0.0295	0.0295
+GO:0001653	peptide receptor activity	13	3	0.75	9	0.0347	0.0347
+GO:0005179	hormone activity	13	3	0.75	10	0.0347	0.0347
+GO:0008528	G-protein coupled peptide receptor activ...	13	3	0.75	11	0.0347	0.0347
+GO:0005518	collagen binding	6	2	0.35	12	0.0426	0.0426
+GO:0030554	adenyl nucleotide binding	59	7	3.42	13	0.0473	0.0473
+GO:0032559	adenyl ribonucleotide binding	59	7	3.42	14	0.0473	0.0473
